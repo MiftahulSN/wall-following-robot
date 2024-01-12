@@ -16,3 +16,6 @@ The goal of this project is to navigate by line following. The robot begins navi
   * Adafruit_TCS34725      [link : https://github.com/adafruit/Adafruit_TCS34725]
   * Adafruit_Motor_Shield  [link : https://github.com/adafruit/Adafruit-Motor-Shield-library]
 
+### electrical wiring
+![wiring](https://github.com/MiftahulSN/wall-following-robot/assets/155772685/902656fe-628f-4845-b9e1-ebb6b5c29e29)
+
